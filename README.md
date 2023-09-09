@@ -1,4 +1,4 @@
-# yerin's osu! skins
+# Yerin's osu! skins(Last Updated 9/8/2023) 
 
 # [yerin v1](https://www.mediafire.com/file/lmnyz69jqdb3dhr/yerin_v1.osk/file)
 ![](https://i.imgur.com/gC9Zc5q.png)
